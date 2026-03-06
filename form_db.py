@@ -13,6 +13,7 @@ CREATE TABLE users (
     CEP TEXT,
     RUA TEXT,
     NUMERO TEXT,
+    CIDADE TEXT,
     ESTADO TEXT,
     EMAIL TEXT
 )
